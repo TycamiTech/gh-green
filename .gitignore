@@ -1,0 +1,15 @@
+# Binaries
+gh-green
+gh-green.exe
+*.exe
+*.test
+
+# Environment files
+.env
+!.env.example
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.log
+
